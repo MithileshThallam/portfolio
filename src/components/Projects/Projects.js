@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Good Byte"
               description="Good byte is a food sharing application aims to reduce food wastage by serving the needy"
-              ghLink="https://github.com/MithileshThallam/tic-tac-toe"
+              ghLink="https://github.com/MithileshThallam/GoodByteFrontend"
             />
           </Col>
 
