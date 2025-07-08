@@ -5,6 +5,9 @@ import Particle from "../Particle";
 import tictactoe from "../../Assets/Projects/tictactoe.png"
 import todolist from "../../Assets/Projects/todolist.png"
 import SpeechToText from "../../Assets/Projects/speechtotext.png"
+import GoodByte from "../../Assets/Projects/food_share.jpeg"
+
+
 
 function Projects() {
   return (
@@ -20,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={tictactoe}
+              imgPath={GoodByte}
               isBlog={false}
               title="Good Byte"
               description="Good byte is a food sharing application aims to reduce food wastage by serving the needy"
