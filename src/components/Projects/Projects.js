@@ -22,8 +22,8 @@ function Projects() {
             <ProjectCard
               imgPath={tictactoe}
               isBlog={false}
-              title="TicTacToe"
-              description="Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Features an interactive UI, responsive design, and real-time game logic to track player moves and declare a winner. Supports two-player mode and provides a dynamic gaming experience"
+              title="Good Byte"
+              description="Good byte is a food sharing application aims to reduce food wastage by serving the needy"
               ghLink="https://github.com/MithileshThallam/tic-tac-toe"
             />
           </Col>
